@@ -12,7 +12,7 @@ Telegram bot to extract text from image
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/OCRBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/STBOT/OCRBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -30,7 +30,7 @@ Telegram bot to extract text from image
    
 3. Use it to  install Tesseract and copy the PATH to where it is installed. 
 
-4. Now uncomment out [this line](https://github.com/StarkBotsIndustries/OCRBot/blob/master/OCRBot/ocr.py#L8). Fill the inverted commas with your own PATH.
+4. Now uncomment out [this line](https://github.com/STBOTZ/OCRBot/blob/master/OCRBot/ocr.py#L8). Fill the inverted commas with your own PATH.
    
 5. Edit `Config.py` and fill the needed variables
 
