@@ -2,11 +2,11 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/OCRBot"><img src="https://telegra.ph/file/243d5cb02e7aa0384358f.jpg" width="5000"></a></p>
+<p align="center"><a href="https://www.github.com/STBOTZ/OCRBot"><img src="https://telegra.ph/file/243d5cb02e7aa0384358f.jpg" width="5000"></a></p>
 
 Telegram bot to extract text from image
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/STBOTZ)
 
 ## Usage
 
@@ -23,7 +23,7 @@ Telegram bot to extract text from image
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/OCRBot
+   git clone https://github.com/STBOTZ/OCRBot
    ```
 
 2. Now head to [this page](https://github.com/UB-Mannheim/tesseract/wiki) and install Tesseract installer. 
@@ -76,14 +76,7 @@ Telegram bot to extract text from image
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@STBOTZ](https://t.me/STBOTZ)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@STBOTZ SUPPORT](https://t.me/ST_BOTZ)
 
-## :)
-
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
-
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
