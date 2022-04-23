@@ -1,4 +1,4 @@
-# OCR Bot [@Image_To_Text_OCR_Bot](https://t.me/Image_To_Text_OCR_Bot)
+# OCR Bot [@Image To Text Bot](https://t.me/ST_IMAGETOTEXTBOT)
 
 > A star ⭐ from you means a lot to us!
 
