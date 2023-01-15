@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/STBOTZ/OCRBot"><img src="https://telegra.ph/file/243d5cb02e7aa0384358f.jpg" width="5000"></a></p>
+<p align="center"><a href="https://www.github.com/STBOTZ/OCRBot"><img src="https://telegra.ph/file/821adfb267fcd7c5e6b5b.jpg" width="5000"></a></p>
 
 Telegram bot to extract text from image
 
